@@ -139,6 +139,7 @@ h3 {
   fill: var(--blue-color);
 }
 .contact-icon {
+  fill: currentColor;
   margin-right: 10px;
 }
 .contact-icon:hover {
